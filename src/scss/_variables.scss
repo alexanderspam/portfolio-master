@@ -3,7 +3,7 @@
 // Color overrides
 
 // Set a custom color
-$orange: #f4623a !default;
+$orange: #FCA58A !default;
 $brown: #5c4d42 !default;
 
 // Set primary color to orange
@@ -20,3 +20,9 @@ $headings-font-family: $font-family-sans-serif !default;
 
 // Custom variables
 $navbar-height: 72px;
+
+// Media queries
+$small-screen: 375px;
+$medium-screen: 992px;
+$large-screen: 1024px;
+$xlarge-screen: 1680px;
